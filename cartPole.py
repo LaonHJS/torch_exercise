@@ -1,6 +1,7 @@
 import gym
 import math
 import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from itertools import count
 from DQNUtils import *
